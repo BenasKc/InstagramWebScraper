@@ -1,4 +1,5 @@
 # InstagramWebScraper
-NOT HEADLESS Instagram web scraper. Latest version 0.1V.
+NOT HEADLESS Instagram web scraper.
 # Features
 - Fetch all people who doesn't follow you back
+# Version 0.1
